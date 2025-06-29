@@ -1,7 +1,8 @@
 name: bottom_nav_bar_custom
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://dasturchimobile
+repository: https://github.com/jovidonxalilov/bottom_navigation_bar_custom
 
 environment:
   sdk: ^3.8.1
